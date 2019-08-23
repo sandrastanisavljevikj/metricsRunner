@@ -1,0 +1,7 @@
+C:\Projects\Repos\ParseRes\MetricsParser\MetricsParser\bin\Debug\MetricsParser.exe.config
+C:\Projects\Repos\ParseRes\MetricsParser\MetricsParser\bin\Debug\MetricsParser.exe
+C:\Projects\Repos\ParseRes\MetricsParser\MetricsParser\bin\Debug\MetricsParser.pdb
+C:\Projects\Repos\ParseRes\MetricsParser\MetricsParser\obj\Debug\MetricsParser.csprojAssemblyReference.cache
+C:\Projects\Repos\ParseRes\MetricsParser\MetricsParser\obj\Debug\MetricsParser.csproj.CoreCompileInputs.cache
+C:\Projects\Repos\ParseRes\MetricsParser\MetricsParser\obj\Debug\MetricsParser.exe
+C:\Projects\Repos\ParseRes\MetricsParser\MetricsParser\obj\Debug\MetricsParser.pdb
